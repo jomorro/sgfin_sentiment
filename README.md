@@ -19,11 +19,11 @@ This project leverages the News API to fetch financial stock headlines, analyzes
 
 1. Clone the repository:
 
-        git clone https://github.com/yourusername/financial-headlines-sentiment-analysis.git
+        git clone https://github.com/yourusername/sgfin_sentiment.git
 
 2. Navigate to the project directory:
 
-        cd financial-headlines-sentiment-analysis
+        cd sgfin_sentiment
 
 3. Create a virtual environment (optional but recommended):
 
